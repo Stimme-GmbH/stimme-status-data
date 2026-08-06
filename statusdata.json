@@ -7,6 +7,11 @@
     }
   ],
   "incidents": [
+    {
+      "title": "Störung Telefonbuchsuche – 06.08.2026, 08:55 Uhr",
+      "text": "Aktuell kommt es zu einer Störung der Telefonbuchsuche. Die direkte Suche nach Kontakten sowie die Namensauflösung bei eingehenden Anrufen sind derzeit eingeschränkt und funktionieren nicht wie vorgesehen. Unser Team untersucht die Ursache bereits und arbeitet an einer schnellstmöglichen Behebung. Über weitere Entwicklungen informieren wir an dieser Stelle.",
+      "tag": ["stimme"]
+    }
   ],
   "upcomingMaintenance": [
   ],
