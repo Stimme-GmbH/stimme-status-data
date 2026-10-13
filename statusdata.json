@@ -14,6 +14,11 @@
       "title": "Major-Release-Update Version 16 - 28.10.26",
       "text": "Wir möchten Sie über ein anstehendes **Major-Release-Update** unserer Plattform informieren. Im Zuge dieses Updates aktualisieren wir die gesamte Plattform von **Version 15 auf Version 16** – einschließlich der angebundenen Endgeräte. Zusätzlich stellen wir eine neue Version des CTI-Clients myApps bereit.\n\n**Zeitpunkt**\nDas Update erfolgt am **Mittwoch, den 28.10.2026**, während unseres regulären Wartungsfensters von **19:00 bis 21:00 Uhr**.\n\nBitte beachten Sie, dass es während dieses Zeitfensters zu vorübergehenden Einschränkungen der Telefonie kommen kann. Die angebundenen Endgeräte starten im Zuge des Updates neu und sind dabei kurzzeitig nicht erreichbar.\n\n**Aktualisierung des myApps Clients**\nDie neue Client-Version wird automatisch ausgeliefert (Auto-Update). Alternativ kann die neue Version bereits vorab heruntergeladen und installiert werden: [Download](https://download.stimme.cloud/)\n\n**Wichtiger Hinweis**\nNutzer Ihrer Kunden, die die Funktion **Anmeldeapparat** verwenden, müssen sich nach dem Update am jeweiligen Telefon erneut anmelden.",
       "tag": ["stimme"]
+    },
+    {
+      "title": "Geplante Wartung – Sonntag, 08.11.2026, 10:00–16:00 Uhr",
+      "text": "Wir führen Wartungsarbeiten an unserer Serverinfrastruktur durch. Während des Wartungsfensters kann es zu Unterbrechungen und zeitweiser Nichterreichbarkeit des Systems kommen. Nach Abschluss der Arbeiten aktualisieren wir diese Meldung.",
+      "tag": ["stimme"]
     }
   ],
 
