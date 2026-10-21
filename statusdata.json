@@ -7,7 +7,11 @@
     }
   ],
   "incidents": [
-
+  {
+      "title": "Update- und Downloadserver vorübergehend offline - 21.10.2026, 14:05 Uhr",
+      "text": "Wegen einer kritischen Sicherheitslücke in PHP haben wir unseren Update- und Downloadserver vorsorglich offline genommen. Beide Dienste stehen wieder zur Verfügung, sobald das PHP-Sicherheitsupdate veröffentlicht und bei uns eingespielt ist. Weitere Informationen: https://www.php.net/archive/2026.php#2026-10-20-1",
+      "tag": ["stimme"]
+    }
   ],
   "upcomingMaintenance": [
     {
