@@ -7,11 +7,7 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Update- und Downloadserver vorübergehend offline - 21.10.2026, 14:05 Uhr - Update 22.10 07:45 Uhr",
-      "text": "Die beiden Server wurden erfolgreich geupdatet und stehen wieder zur Verfügung.",
-      "tag": ["stimme"]
-    }
+
   ],
   "upcomingMaintenance": [
     {
@@ -82,6 +78,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Update- und Downloadserver vorübergehend offline - 21.10.2026, 14:05 Uhr - Update 22.10 07:45 Uhr",
+      "text": "Die beiden Server wurden erfolgreich geupdatet und stehen wieder zur Verfügung.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Update- und Downloadserver vorübergehend offline - 21.10.2026, 14:05 Uhr - Update 16:15 Uhr",
       "text": "Der Downloadserver wurde erfolgreich geupdatet und steht wieder zur Verfügung.",
@@ -212,7 +213,6 @@
       "text": "Im Zuge einer wichtigen Anpassung kann es an dem drauffolgendem Tag dazu kommen, dass eine erneute Anmeldung im myApps Client notwendig ist. Vielen Dank für Ihr Verständnis – und entschuldigen Sie bitte die möglichen Unannehmlichkeiten.",
       "tag": ["stimme"]
     },
-
     {
       "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche - Update 28.08.25 11:25",
       "text": "Die Ursache wurde identifiziert und behoben. Wir arbeiten derzeit an der Behebung der daraus resultierenden Auswirkungen.",
