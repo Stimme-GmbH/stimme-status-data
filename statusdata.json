@@ -8,13 +8,8 @@
   ],
   "incidents": [
     {
-      "title": "Update- und Downloadserver vorübergehend offline - 21.10.2026, 14:05 Uhr - Update 16:15 Uhr",
-      "text": "Der Downloadserver wurde erfolgreich geupdatet und steht wieder zur Verfügung.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Update- und Downloadserver vorübergehend offline - 21.10.2026, 14:05 Uhr",
-      "text": "Wegen einer kritischen Sicherheitslücke in PHP haben wir unseren Update- und Downloadserver vorsorglich offline genommen. Beide Dienste stehen wieder zur Verfügung, sobald das PHP-Sicherheitsupdate veröffentlicht und bei uns eingespielt ist. Weitere Informationen: https://www.php.net/archive/2026.php#2026-10-20-1",
+      "title": "Update- und Downloadserver vorübergehend offline - 21.10.2026, 14:05 Uhr - Update 22.10 07:45 Uhr",
+      "text": "Die beiden Server wurden erfolgreich geupdatet und stehen wieder zur Verfügung.",
       "tag": ["stimme"]
     }
   ],
@@ -87,6 +82,16 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Update- und Downloadserver vorübergehend offline - 21.10.2026, 14:05 Uhr - Update 16:15 Uhr",
+      "text": "Der Downloadserver wurde erfolgreich geupdatet und steht wieder zur Verfügung.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Update- und Downloadserver vorübergehend offline - 21.10.2026, 14:05 Uhr",
+      "text": "Wegen einer kritischen Sicherheitslücke in PHP haben wir unseren Update- und Downloadserver vorsorglich offline genommen. Beide Dienste stehen wieder zur Verfügung, sobald das PHP-Sicherheitsupdate veröffentlicht und bei uns eingespielt ist. Weitere Informationen: https://www.php.net/archive/2026.php#2026-10-20-1",
+      "tag": ["stimme"]
+    },
     {
       "title": "Störung Telefonbuchsuche – 06.08.2026, 10:12 Uhr - Störung behoben",
       "text": "Die Störung der Telefonbuchsuche wurde erfolgreich behoben. Die Suche nach Kontakten sowie die Namensauflösung bei eingehenden Anrufen stehen wieder uneingeschränkt zur Verfügung. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten.",
