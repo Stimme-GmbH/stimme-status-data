@@ -1,15 +1,15 @@
 {
   "statusAlert": [
     {
-      "message": "Die Systeme sind eingeschränkt verfügbar.",
-      "alertColor": "warning",
+      "message": "Alle Systeme sind verfügbar.",
+      "alertColor": "success",
       "tag": ["all"]
     }
   ],
   "incidents": [
     {
-      "title": "Portal vorübergehend nicht erreichbar - 23.10.2026, 09:55 Uhr",
-      "text": "Aufgrund einer Sicherheitsüberprüfung ist das Portal derzeit vorübergehend nicht erreichbar. Wir arbeiten bereits an der Behebung und informieren Sie, sobald das Portal wieder verfügbar ist.",
+      "title": "Portal vorübergehend nicht erreichbar - 23.10.2026, 09:55 Uhr - Update 10:20 Uhr",
+      "text": "Die Sicherheitsüberprüfung ist abgeschlossen. Das Portal steht wieder uneingeschränkt zur Verfügung.",
       "tag": ["stimme"]
     }
   ],
