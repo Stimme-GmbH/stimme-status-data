@@ -7,11 +7,7 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Portal vorübergehend nicht erreichbar - 23.10.2026, 09:55 Uhr - Update 10:20 Uhr",
-      "text": "Die Sicherheitsüberprüfung ist abgeschlossen. Das Portal steht wieder uneingeschränkt zur Verfügung.",
-      "tag": ["stimme"]
-    }
+
   ],
   "upcomingMaintenance": [
     {
@@ -82,6 +78,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Portal vorübergehend nicht erreichbar - 23.10.2026, 09:55 Uhr - Update 10:20 Uhr",
+      "text": "Die Sicherheitsüberprüfung ist abgeschlossen. Das Portal steht wieder uneingeschränkt zur Verfügung.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Update- und Downloadserver vorübergehend offline - 21.10.2026, 14:05 Uhr - Update 22.10 07:45 Uhr",
       "text": "Die beiden Server wurden erfolgreich geupdatet und stehen wieder zur Verfügung.",
