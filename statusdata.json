@@ -11,8 +11,8 @@
   ],
   "upcomingMaintenance": [
     {
-      "title": "Geplante Wartung – Sonntag, 08.11.2026, 10:00–16:00 Uhr",
-      "text": "Wir führen Wartungsarbeiten an unserer Serverinfrastruktur durch. Während des Wartungsfensters kann es zu Unterbrechungen und zeitweiser Nichterreichbarkeit des Systems kommen. Nach Abschluss der Arbeiten aktualisieren wir diese Meldung.",
+      "title": "Geplante Wartung – Sonntag, 08.11.2026, 10:00–16:00 Uhr - Update 13:30",
+      "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
       "tag": ["stimme"]
     },
     {
@@ -30,6 +30,11 @@
     }
   ],
   "closedMaintenance": [
+    {
+      "title": "Geplante Wartung – Sonntag, 08.11.2026, 10:00–16:00 Uhr",
+      "text": "Wir führen Wartungsarbeiten an unserer Serverinfrastruktur durch. Während des Wartungsfensters kann es zu Unterbrechungen und zeitweiser Nichterreichbarkeit des Systems kommen. Nach Abschluss der Arbeiten aktualisieren wir diese Meldung.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Geplanter Neustart – Mittwoch, 04.11.2026, 20:00 Uhr",
       "text": "Wir führen einen planmäßigen Neustart unseres Portals durch. Während des Neustarts kann es kurzzeitig zu Unterbrechungen und zeitweiser Nichterreichbarkeit des Systems kommen. Nach Abschluss des Neustarts aktualisieren wir diese Meldung.",
