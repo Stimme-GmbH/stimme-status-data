@@ -11,11 +11,6 @@
   ],
   "upcomingMaintenance": [
     {
-      "title": "Geplante Wartung – Sonntag, 08.11.2026, 10:00–16:00 Uhr - Update 13:30",
-      "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
-      "tag": ["stimme"]
-    },
-    {
       "title": "Geplante Wartungsarbeiten: Core-Router im Rechenzentrum, 11.11.2026, 22:00–24:00 Uhr",
       "text": "Am 11.11.2026 führt unser Rechenzentrumsdienstleister ab 22:00 Uhr planmäßige Wartungsarbeiten an den Core-Routern durch. Die Arbeiten dauern voraussichtlich etwa zwei Stunden. In dieser Zeit kann es zu Unterbrechungen kommen, sodass unsere Dienste zeitweise nicht erreichbar sind. Nach Abschluss der Arbeiten aktualisieren wir diese Meldung.",
       "tag": ["stimme"]
@@ -30,6 +25,11 @@
     }
   ],
   "closedMaintenance": [
+    {
+      "title": "Geplante Wartung – Sonntag, 08.11.2026, 10:00–16:00 Uhr - Update 13:30",
+      "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Geplante Wartung – Sonntag, 08.11.2026, 10:00–16:00 Uhr",
       "text": "Wir führen Wartungsarbeiten an unserer Serverinfrastruktur durch. Während des Wartungsfensters kann es zu Unterbrechungen und zeitweiser Nichterreichbarkeit des Systems kommen. Nach Abschluss der Arbeiten aktualisieren wir diese Meldung.",
