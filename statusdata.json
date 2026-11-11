@@ -11,6 +11,11 @@
   ],
   "upcomingMaintenance": [
     {
+      "title": "Sicherheitsupdate der Plattform, 11.11.2026, 19:00–21:00 Uhr",
+      "text": "Am 11.11.2026 spielen wir von 19:00 bis 21:00 Uhr ein Sicherheitsupdate auf die gesamte stimme-Plattform ein. Der Hersteller hat neue Service Releases veröffentlicht, die mehrere Sicherheitslücken schließen. Wir installieren sie deshalb kurzfristig in unserem regulären Wartungsfenster. In dieser Zeit kann es zu kurzen Unterbrechungen der Telefonie und der Apps kommen. Die Endgeräte melden sich danach automatisch wieder an. Nach Abschluss der Arbeiten aktualisieren wir diese Meldung.",
+      "tag": ["stimme"]
+    },
+    {
       "title": "Geplante Wartungsarbeiten: Core-Router im Rechenzentrum, 11.11.2026, 22:00–24:00 Uhr",
       "text": "Am 11.11.2026 führt unser Rechenzentrumsdienstleister ab 22:00 Uhr planmäßige Wartungsarbeiten an den Core-Routern durch. Die Arbeiten dauern voraussichtlich etwa zwei Stunden. In dieser Zeit kann es zu Unterbrechungen kommen, sodass unsere Dienste zeitweise nicht erreichbar sind. Nach Abschluss der Arbeiten aktualisieren wir diese Meldung.",
       "tag": ["stimme"]
