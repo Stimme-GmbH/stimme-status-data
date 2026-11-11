@@ -11,8 +11,8 @@
   ],
   "upcomingMaintenance": [
     {
-      "title": "Sicherheitsupdate der Plattform, 11.11.2026, 19:00–21:00 Uhr",
-      "text": "Am 11.11.2026 spielen wir von 19:00 bis 21:00 Uhr ein Sicherheitsupdate auf die gesamte stimme-Plattform ein. Der Hersteller hat neue Service Releases veröffentlicht, die mehrere Sicherheitslücken schließen. Wir installieren sie deshalb kurzfristig in unserem regulären Wartungsfenster. In dieser Zeit kann es zu kurzen Unterbrechungen der Telefonie und der Apps kommen. Die Endgeräte melden sich danach automatisch wieder an. Nach Abschluss der Arbeiten aktualisieren wir diese Meldung.",
+      "title": "Abgeschlossen: Sicherheitsupdate der Plattform, 11.11.2026",
+      "text": "Das Sicherheitsupdate wurde erfolgreich abgeschlossen. Alle Dienste sind wieder uneingeschränkt verfügbar.",
       "tag": ["stimme"]
     },
     {
@@ -30,6 +30,11 @@
     }
   ],
   "closedMaintenance": [
+    {
+      "title": "Sicherheitsupdate der Plattform, 11.11.2026, 19:00–21:00 Uhr",
+      "text": "Am 11.11.2026 spielen wir von 19:00 bis 21:00 Uhr ein Sicherheitsupdate auf die gesamte stimme-Plattform ein. Der Hersteller hat neue Service Releases veröffentlicht, die mehrere Sicherheitslücken schließen. Wir installieren sie deshalb kurzfristig in unserem regulären Wartungsfenster. In dieser Zeit kann es zu kurzen Unterbrechungen der Telefonie und der Apps kommen. Die Endgeräte melden sich danach automatisch wieder an. Nach Abschluss der Arbeiten aktualisieren wir diese Meldung.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Geplante Wartung – Sonntag, 08.11.2026, 10:00–16:00 Uhr - Update 13:30",
       "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
