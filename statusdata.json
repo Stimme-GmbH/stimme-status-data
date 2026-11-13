@@ -7,7 +7,11 @@
     }
   ],
   "incidents": [
-
+    {
+    "title": "Information: Verzögerungen beim Mailversand, 13.11.2026",
+    "text": "Aktuell kommt es zu Verzögerungen beim Mailversand. Betroffen sind Voicemails per Mail und Fax per Mail. Wir arbeiten an einer Lösung und informieren Sie, sobald die Störung behoben ist.",
+    "tag": ["stimme"]
+    }
   ],
   "upcomingMaintenance": [
     {
