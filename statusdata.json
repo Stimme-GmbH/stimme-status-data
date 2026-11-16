@@ -10,11 +10,7 @@
 
   ],
   "upcomingMaintenance": [
-    {
-      "title": "Abgeschlossen: Sicherheitsupdate der Plattform, 11.11.2026",
-      "text": "Das Sicherheitsupdate wurde erfolgreich abgeschlossen. Alle Dienste sind wieder uneingeschränkt verfügbar.",
-      "tag": ["stimme"]
-    }
+
   ],
 
   "returningMaintenance": [
@@ -25,6 +21,11 @@
     }
   ],
   "closedMaintenance": [
+    {
+      "title": "Abgeschlossen: Sicherheitsupdate der Plattform, 11.11.2026",
+      "text": "Das Sicherheitsupdate wurde erfolgreich abgeschlossen. Alle Dienste sind wieder uneingeschränkt verfügbar.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Geplante Wartungsarbeiten: Core-Router im Rechenzentrum, 11.11.2026, 22:00–24:00 Uhr",
       "text": "Am 11.11.2026 führt unser Rechenzentrumsdienstleister ab 22:00 Uhr planmäßige Wartungsarbeiten an den Core-Routern durch. Die Arbeiten dauern voraussichtlich etwa zwei Stunden. In dieser Zeit kann es zu Unterbrechungen kommen, sodass unsere Dienste zeitweise nicht erreichbar sind. Nach Abschluss der Arbeiten aktualisieren wir diese Meldung.",
