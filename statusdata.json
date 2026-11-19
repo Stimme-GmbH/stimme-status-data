@@ -1,13 +1,17 @@
 {
   "statusAlert": [
     {
-      "message": "Alle Systeme sind verfügbar.",
-      "alertColor": "success",
+      "message": "Die Systeme sind eingeschränkt verfügbar.",
+      "alertColor": "warning",
       "tag": ["all"]
     }
   ],
   "incidents": [
-
+    {
+      "title": "Information: Updateserver vorübergehend offline, 19.11.2026",
+      "text": "Wegen einer aktuellen Sicherheitslücke in PHP haben wir unseren Updateserver vorsorglich vom Netz genommen. Deshalb können neue Endgeräte derzeit nicht automatisch provisioniert werden. Bereits eingerichtete Geräte und die Telefonie sind nicht betroffen. Wir informieren Sie, sobald der Updateserver wieder erreichbar ist.",
+      "tag": ["stimme"]
+    }
   ],
   "upcomingMaintenance": [
 
