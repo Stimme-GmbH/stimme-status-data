@@ -8,8 +8,8 @@
   ],
   "incidents": [
     {
-      "title": "Information: Updateserver vorübergehend offline, 19.11.2026",
-      "text": "Wegen einer aktuellen Sicherheitslücke in PHP haben wir unseren Updateserver vorsorglich vom Netz genommen. Deshalb können neue Endgeräte derzeit nicht automatisch provisioniert werden. Bereits eingerichtete Geräte und die Telefonie sind nicht betroffen. Wir informieren Sie, sobald der Updateserver wieder erreichbar ist.",
+      "title": "Information: Update- und Downloadserver vorübergehend offline, 19.11.2026",
+      "text": "Wegen einer aktuellen Sicherheitslücke in PHP haben wir unseren Updateserver und unseren Downloadserver vorsorglich vom Netz genommen. Deshalb können neue Endgeräte derzeit nicht automatisch provisioniert werden, und Downloads stehen vorübergehend nicht zur Verfügung. Bereits eingerichtete Geräte und die Telefonie sind nicht betroffen. Wir informieren Sie, sobald beide Server wieder erreichbar sind.",
       "tag": ["stimme"]
     }
   ],
